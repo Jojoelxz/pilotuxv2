@@ -1,0 +1,6 @@
+{
+  "name": "pilotux-calendar",
+  "dependencies": {
+    "googleapis": "^120.0.0"
+  }
+}
